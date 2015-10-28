@@ -9,6 +9,11 @@
       <artifactId>CollectionUtils</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
+    <dependency>
+    	<groupId>com.rais.StringUtils</groupId>
+    	<artifactId>StringUtils</artifactId>
+    	<version>0.0.1-SNAPSHOT</version>
+    </dependency>
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
