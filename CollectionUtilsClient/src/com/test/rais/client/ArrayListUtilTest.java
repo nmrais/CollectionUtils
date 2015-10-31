@@ -20,7 +20,7 @@ public class ArrayListUtilTest {
 		System.out.println("Intersection : "+ArrayListUtil.intersection(list1, list2));
 		System.out.println("Difference : "+ArrayListUtil.difference(list1, list2));
 		System.out.println("NumberOfOccurrences : "+ArrayListUtil.returnNumberOfOccurrence(list1, 4));
-		System.out.println("NumberOfOccurrences : "+ArrayListUtil.removeDuplicates(list3));
+		System.out.println("Remove Duplicates : "+ArrayListUtil.removeDuplicates(list3));
 		System.out.println("Reverse : "+ArrayListUtil.reverseArrayList(list1));
 		System.out.println("Sort Ascending : "+ArrayListUtil.sort(list4, SortEnum.SORT_ASC));
 		System.out.println("Sort Descending : "+ArrayListUtil.sort(list4, SortEnum.SORT_DESC));
